@@ -1,4 +1,4 @@
-# Mysvc: A sample gRPC microservice design pattern
+# mysvc: A sample Go gRPC microservice
 
 ## Motivation
 gRPC is a popular RPC framework for building microservices that communicate efficiently. However, there are not very many good tutorials for how to structure your microservice code when using gRPC with Go. This repo attempts to define a pattern for adding a gRPC layer to an existing service definition. 
